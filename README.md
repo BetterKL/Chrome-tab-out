@@ -84,8 +84,5 @@ Everything runs inside the Chrome extension. No external server, no API calls, n
 
 ## License
 
-MIT
+This product was primarily built for Zara; I have adapted it—incorporating Flok and customizing it to suit individual requirements—for use by developers.
 
----
-
-Built by [Zara](https://x.com/zarazhangrui)
